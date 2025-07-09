@@ -1,4 +1,4 @@
-# ClauseCraft Capsule Demo — Public GPT Interface
+# ClauseCraft Capsule Demo 1.0 — Public GPT Interface
 
 **Intellectual Property Notice:**  
 ClauseCraft Capsule is the intellectual property of **S. Jason Prohaska**. All creative and conceptual elements belong to the author. This public GPT interface is shared openly for sovereign expression and ethical AI exploration.
