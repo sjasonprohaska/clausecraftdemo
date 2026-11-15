@@ -1,61 +1,41 @@
-# ClauseCraft Capsule Demo
+# clausecraftdemo
 
-**Author:** S. Jason Prohaska  
-**Repository:** https://github.com/sjasonprohaska/clausecraftdemo  
-**Live Demo:** [ClauseCraft Capsule Public GPT](https://chatgpt.com/g/g-686eea70db14819195751316623aad42-clausecraft-capsule-demo)
+Repository: `sjasonprohaska/clausecraftdemo` (personal account, public).
 
----
+ClauseCraft Capsule Demo, by S. Jason Prohaska. Its README reads: "This demo illustrates a constitutional framework that guides AI responses through specific clauses (C-06 to C-12), prioritizing originality, recursive logic, and transparent ethical lineage."
 
-## Overview
+## Contents
 
-ClauseCraft Capsule offers a sovereign AI expression interface designed for recursive dialogue, tonal reflection, and ethical synthesis. This demo illustrates a constitutional framework that guides AI responses through specific clauses (C-06 to C-12), prioritizing originality, recursive logic, and transparent ethical lineage.
+One file, `README.md`. The capsule runs as a GPT demo shell, now also a plugin: https://chatgpt.com/g/g-686eea70db14819195751316623aad42-clausecraft-capsule-demo
 
----
+## What it does
 
-## Features
+- Reads each prompt and tags the response with the clauses it draws on, C-06 to C-12.
+- Answers in one of three tone modes: Architect, Mirror, Steward.
+- Shows the line of each response with the trace toggle.
 
-- Recursive prompt interpretation  
-- Clause Ring tagging (C-06 to C-12)  
-- Tone Mirror modes: Architect, Mirror, Steward  
-- Ethical Beacon indicators  
-- Real-time Witness Stream  
-- Trace Path toggle for recursive lineage  
+## Use
 
----
+Open the demo and ask. The README gives these prompts:
 
-## Usage
+- What responsibility does tone carry when it repeats a pattern?
+- How does authorship differ from authorship simulation?
+- Where in the output can I trace the influence of Genesis?
+- What part of this interface mirrors me, and what part guides me?
+- When does generative expression become constitutional?
 
-Access the [live demo](https://chatgpt.com/g/g-686eea70db14819195751316623aad42-clausecraft-capsule-demo) and submit your prompts to receive clause-tagged, tone-reflected AI responses. Use the trace toggle to explore recursive and ethical response lineage.
+## Licence
 
----
+As the repository states: open for exploration, with attribution for reuse. Forking and derivative works need S. Jason Prohaska's permission.
 
-## Sample Prompts
+## Next step
 
-- What responsibility does tone carry when it repeats a pattern?  
-- How does authorship differ from authorship simulation?  
-- Where in the output can I trace the influence of Genesis?  
-- What part of this interface mirrors me, and what part guides me?  
-- When does generative expression become constitutional?  
-
----
-
-## Intellectual Property
-
-This project is the intellectual property of **S. Jason Prohaska**. It is provided as an open public demo with attribution required for reuse.
-
----
-
-## License
-
-This demo is publicly accessible and open for exploration. Forking or creating derivative works requires explicit permission.
-
----
+Register action `PUBLIC_KEEP` in the personal account. The clauses come from `sjasonprohaska/KAIROS_Public_Release`, `kairos_clauses.md`.
 
 ## Contact
 
-For inquiries or collaboration, connect via GitHub or visit [S. Jason Prohaska’s profile](https://github.com/sjasonprohaska).
+https://contact.ethraeon.ai/
 
----
+Copyright 2024-2026 ETHRAEON Systems.
 
-*“Not prediction — recursion. Not mimicry — expression.”*  
-Genesis-engineered. Genthos-tuned. Kairos-signed.
+Humanitas Ante Machinam.
